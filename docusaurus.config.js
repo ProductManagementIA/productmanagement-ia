@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Product Management IA',
-  tagline: 'Product are cool',
+  tagline: 'Product Management Tools',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://www.productmanagement-ia.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/productmanagement-ia/',
+  baseUrl: '/',
   deploymentBranch: 'gh-pages',
 
   // GitHub pages deployment config.
