@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproductmanagement_ia=self.webpackChunkproductmanagement_ia||[]).push([[8464],{1123:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/productmanagement-ia/blog/tags/facebook","allTagsPath":"/productmanagement-ia/blog/tags","count":1}')}}]);
