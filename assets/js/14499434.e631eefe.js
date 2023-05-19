@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproductmanagement_ia=self.webpackChunkproductmanagement_ia||[]).push([[8849],{927:a=>{a.exports=JSON.parse('{"permalink":"/productmanagement-ia/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
